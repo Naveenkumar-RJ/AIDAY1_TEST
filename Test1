@@ -1,0 +1,4 @@
+a=10
+b=30
+sum = a+b
+Print("Addition of a and b is : ", sum)
